@@ -11,11 +11,10 @@
 
 - 📫 How to reach me **shaswataroy1234@gmail.com**
 
-- ⚡ Fun fact **A weeb for heart(Tatakai.....)**
+- ⚡ Fun fact **A weeb for heart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/shaswata roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shaswata roy" height="30" width="40" /></a>
 <a href="https://instagram.com/uchiha20_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="uchiha20_20" height="30" width="40" /></a>
 </p>
 
