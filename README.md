@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **Full-stack web, React native, Ui/Ux design**
+- 🌱 I’m currently learning **Full-stack web, React native, C++**
 
-- 💬 Ask me about **Web-dev, MERN, Design**
+- 💬 Ask me about **Web-dev, MERN, Design, DSA**
 
 - 📫 How to reach me **shaswataroy1234@gmail.com**
 
